@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Ignore Git repos inside Jobs Git
+Jobs Git/
+
+# Ignore all PDF files
+*.pdf
