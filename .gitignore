@@ -6,6 +6,7 @@ __pycache__/
 *.pyc
 
 # Ignore Git repos inside Jobs Git
+Big Job
 Jobs Git/
 
 # Ignore all PDF files
